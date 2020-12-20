@@ -1,0 +1,20 @@
+{
+  "name": "b9lab_ethsub-challenge-honeypot",
+  "version": "1.0.0",
+  "description": "Small project and assisted by https://academy.b9lab.com",
+  "private": true,
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niels Launert",
+  "email": "niels@blockwerft.de",
+  "license": "Unlicense",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.0",
+    "web3": "^1.3.1"
+  }
+}
